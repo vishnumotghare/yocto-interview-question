@@ -53,6 +53,9 @@ How do you build the Linux kernel using BitBake in Yocto?
 How do you create a defconfig using BitBake in Yocto?
 
 How do you create a kernel configuration fragment using BitBake in Yocto?
-Development Tools
+
+**Development Tools**
+
 Have you used devtool in Yocto? What is its purpose, and how do you create a patch using it?
+
 Have you built an SDK using Yocto? What is the command to build the SDK?
